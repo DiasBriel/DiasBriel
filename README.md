@@ -3,6 +3,14 @@
 
 Some things about me :writing_hand:
 
+
+- :thumbsup: I'm currently looking for a job
+- :seedling: I'm studying **mobile development (Flutter and React Native)**, **augmented reality** and **UX/UI**
+- :man_student: I'm studying Computer Engineering at CEFET/RJ
+- :guitar: I am a musician
+- :video_game: I am a gamer
+
+
  <div>
   <a href="https://github.com/DiasBriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasBriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,6 +29,5 @@ Some things about me :writing_hand:
   <a href = "mailto:gabrielsdias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/dias-briel-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/DiasBriel/DiasBriel/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
