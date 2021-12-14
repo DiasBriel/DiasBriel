@@ -4,9 +4,9 @@
 Some things about me :writing_hand:
 
 
-- :thumbsup: I'm currently looking for a job
-- :seedling: I'm studying **mobile development (Flutter and React Native)**, **augmented reality** and **UX/UI**
-- :man_student: I'm studying Computer Engineering at CEFET/RJ
+- :thumbsup: I'm Front-End Developer to Junta Local Rio. In this job I use React JS, Tailwindcss and Figma.
+- :seedling: I'm learning **mobile development (Flutter and React Native)**, **augmented reality** and **UX/UI**
+- :man_student: I'm studying **Computer Engineering** at CEFET/RJ
 - :guitar: I am a musician
 - :video_game: I am a gamer
 
