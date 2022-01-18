@@ -1,7 +1,7 @@
 # Hello, world! :smile: 
 ### I'm **Gabriel Dias**, and I am a *React*, *React Native* & *Flutter* Developer. 
 
-Some things about me :writing_hand:
+:writing_hand: Some things about me 
 
 
 - :thumbsup: I'm Front-End Developer to Junta Local Rio. In this job I use React JS, Tailwindcss and Figma.
@@ -9,6 +9,8 @@ Some things about me :writing_hand:
 - :man_student: I'm studying **Computer Engineering** at CEFET/RJ
 - :guitar: I am a musician
 - :video_game: I am a gamer
+
+🎨 **Access my Google Drive to see some of my own designs using Figma (It's pretty simple, but I try!).** [Click here!](https://drive.google.com/drive/folders/1Vs-bfXk5AQyNcQyszztOC_CSbtcUYfBc?usp=sharing)
 
 
  <div>
