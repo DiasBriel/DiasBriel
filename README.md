@@ -1,5 +1,5 @@
 # Hello, world! :smile: 
-### I'm **Gabriel Dias**, and I am a *React*, *React Native* & *Flutter* Developer. 
+### I'm **Gabriel Dias**, and I am a Full Stack Developer. 
 
 :writing_hand: Some things about me 
 
