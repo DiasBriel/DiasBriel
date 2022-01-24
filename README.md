@@ -10,8 +10,8 @@
 - :guitar: I am a musician
 - :video_game: I am a gamer
 
-🎨 **Access my Google Drive to see some of my own designs using Figma (It's pretty simple, but I try!).** [Click here!](https://drive.google.com/drive/folders/1Vs-bfXk5AQyNcQyszztOC_CSbtcUYfBc?usp=sharing)
-
+🎨 **[Click here](https://drive.google.com/drive/folders/1Vs-bfXk5AQyNcQyszztOC_CSbtcUYfBc?usp=sharing)
+to access my Google Drive to see some of my own designs using Figma (It's pretty simple, but I try!).** 
 
  <div>
   <a href="https://github.com/DiasBriel">
