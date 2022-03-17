@@ -4,7 +4,7 @@
 :writing_hand: Some things about me 
 
 
-- :thumbsup: I'm Middle Full Stack Developer to Garantti. In this job I use React JS and NestJS.
+- :thumbsup: I'm Mid-Level Full Stack Developer to Garantti. In this job I use React JS and NestJS.
 - :seedling: I'm learning **mobile development (Flutter and React Native)** and **UX/UI**
 - :man_student: I'm studying **Computer Engineering** at CEFET/RJ
 - :guitar: I am a musician
