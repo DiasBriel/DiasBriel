@@ -5,7 +5,7 @@
 
 
 - :thumbsup: I'm Mid-Level Full Stack Developer to  [CreativeCode](https://creativecode.com.br/). In this job I use React JS, NestJS and PostgreSQL.
-- :seedling: I'm learning **mobile development **(Kotlin and Flutter)** and **Java Spring**
+- :seedling: I'm learning **mobile development** **(Kotlin and Flutter)** and **Java Spring**
 - :man_student: I'm studying **Computer Engineering** at CEFET/RJ
 - :guitar: I am a musician
 - :video_game: I am a gamer
