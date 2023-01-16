@@ -13,11 +13,6 @@
 🎨 **[Click here](https://drive.google.com/drive/folders/1Vs-bfXk5AQyNcQyszztOC_CSbtcUYfBc?usp=sharing)
 to access my Google Drive to see some of my own designs using Figma (It's pretty simple, but I try!).** 
 
- <div>
-  <a href="https://github.com/DiasBriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasBriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasBriel&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dias-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
