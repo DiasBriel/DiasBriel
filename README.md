@@ -4,8 +4,8 @@
 :writing_hand: Some things about me 
 
 
-- :thumbsup: I'm Back-End Developer to [4all](https://4all.com/). In this job I use NodeJS
-- :seedling: I'm learning **mobile development** **(Kotlin and Flutter)**
+- :thumbsup: I'm Back-End Developer to [4all](https://4all.com/). In this job I use NodeJS and React Native
+- :seedling: I'm learning **mobile development** **(Kotlin, React Native and Flutter)**
 - :man_student: I'm studying **Software Analysis and Development** at FIAP
 - :guitar: I am a musician
 - :video_game: I am a gamer
